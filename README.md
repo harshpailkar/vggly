@@ -18,8 +18,7 @@ This project implements the classic **Neural Style Transfer** technique:
 
 ## 🖼️ Example
 
-| Output |
-| ![](vggly_result.png) |
+![](vggly_result.png)
 
 ---
 
